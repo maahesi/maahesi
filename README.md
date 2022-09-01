@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a college student currently in my last year trying to get more knowledge by also being on a self-taught journey. I'm currently pursuing a Full-Stack roadmap.
 <!--
 **maahesi/maahesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
